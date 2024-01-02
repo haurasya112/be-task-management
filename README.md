@@ -33,7 +33,7 @@ The API documentation can be accessed at the following link:
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/task-management-system-backend.git`
+1. Clone the repository: `git clone https://github.com/haurasya112/be-task-management.git`
 2. Install dependencies: `npm install`
 3. Configure environment variables: Create a `.env` file based on the provided `.env.example`.
 4. Set up the database: Create a MySQL database and update the connection details in `.env`.
