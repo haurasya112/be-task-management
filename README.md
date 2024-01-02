@@ -6,6 +6,7 @@ The API documentation can be accessed at the following link:
 [DOCUMENTATION API](https://documenter.getpostman.com/view/23702805/2s9YsDmFon)
 
 The following is the database structure:
+
 ![Database Structure](db.png)
 
 ## Features
