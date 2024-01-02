@@ -5,6 +5,9 @@ This repository contains the backend implementation of a Task Management System 
 The API documentation can be accessed at the following link: 
 [DOCUMENTATION API](https://documenter.getpostman.com/view/23702805/2s9YsDmFon)
 
+The following is the database structure:
+![Database Structure](db.png)
+
 ## Features
 
 - **User Authentication:** Secure user registration and login functionality.
