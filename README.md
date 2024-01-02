@@ -33,7 +33,6 @@ The following is the database structure:
 - **Middlewares:** Custom middleware functions, e.g., authentication.
 - **Config:** Configuration files, e.g., database connection setup.
 - **Public:** Placeholder for static files (images in this case).
-- **Tests:** Unit and integration tests (if applicable).
 
 ## Getting Started
 
