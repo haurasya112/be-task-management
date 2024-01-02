@@ -3,7 +3,7 @@
 This repository contains the backend implementation of a Task Management System developed for the BLP Beauty Selection Backend Engineer Internship.
 
 The API documentation can be accessed at the following link: 
-"[DOCUMENTATION API](https://documenter.getpostman.com/view/23702805/2s9YsDmFon)"
+[DOCUMENTATION API](https://documenter.getpostman.com/view/23702805/2s9YsDmFon)
 
 ## Features
 
