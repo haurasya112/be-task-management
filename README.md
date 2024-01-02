@@ -22,7 +22,7 @@ The following is the database structure:
 - **Web Framework:** Express.js
 - **Database:** MySQL with Sequelize ORM
 - **Authentication:** JSON Web Tokens (JWT)
-- **File Upload:** AWS S3 (for storing file attachments)
+- **File Upload:** Local storage for attachments
 - **Other Libraries:** bcrypt, dotenv, cors, cookie-parser, multer, and more.
 
 ## Project Structure
