@@ -67,7 +67,7 @@ export const saveTask = async (req, res) => {
         console.log(error.message);
         res
           .status(500)
-          .json({ status: "error", message: "Internal Server Errorrrrrrr" });
+          .json({ status: "error", message: "Internal Server Error" });
       }
     });
   } catch (error) {
@@ -95,7 +95,7 @@ export const updateTask = async (req, res) => {
     const allowedType = [".png", ".jpg", ".jpeg", ".docx", ".txt", ".pdf"];
 
     if (!allowedType.includes(ext.toLowerCase()))
-      return res.status(422).json({ message: "Invalid Images" });
+      return res.status(422).json({ message: "Invalid File" });
     if (fileSize > 5000000)
       return res.status(422).json({ message: "Image must be less than 5 MB" });
 
